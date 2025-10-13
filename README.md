@@ -33,9 +33,8 @@ The data for this project comes from Kaggle:
 
 Student-Score-Prediction/
 │
-├── app.py # 🎯 Main Streamlit web app (frontend + model prediction)
-├── best_model.pkl # 💾 Trained machine learning model saved using joblib
-├── student_habits_performance.csv # 📊 Dataset from Kaggle (Student Habits vs Academic Performance)
-├── requirements.txt # 🧩 List of dependencies required for running the project
-└── README.md # 📝 Project documentation (this file)
-
+├── app.py                          # 🎯 Main Streamlit web app (frontend + model prediction)
+├── best_model.pkl                  # 💾 Trained machine learning model saved using joblib
+├── student_habits_performance.csv  # 📊 Dataset from Kaggle (Student Habits vs Academic Performance)
+├── requirements.txt                # 🧩 List of dependencies required for running the project
+└── README.md                       # 📝 Project documentation (this file)
