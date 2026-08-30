@@ -10,7 +10,7 @@
 
 **R² = 0.90** · Average error of just **4.1 points** out of 100
 
-[**Try the live app →**](https://hassan9255-student-score-prediction-app-lo6er5.streamlit.app/)
+[**Try the live app →**](https://student-score-prediction-jne8k6eufr92baygyousen.streamlit.app/)
 
 </div>
 
