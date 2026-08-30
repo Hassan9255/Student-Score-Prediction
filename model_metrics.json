@@ -1,0 +1,28 @@
+{
+  "model": "LinearRegression",
+  "features": [
+    "study_hours_per_day",
+    "social_media_hours",
+    "netflix_hours",
+    "attendance_percentage",
+    "sleep_hours",
+    "exercise_frequency",
+    "mental_health_rating"
+  ],
+  "test_r2": 0.8995801560882967,
+  "test_rmse": 5.074501925779435,
+  "test_mae": 4.113913694442793,
+  "cv_r2_mean": 0.8983772299623599,
+  "n_train": 800,
+  "n_test": 200,
+  "coefficients": {
+    "study_hours_per_day": 9.574557646948845,
+    "social_media_hours": -2.6197829902878844,
+    "netflix_hours": -2.277077330631049,
+    "attendance_percentage": 0.1447283137697366,
+    "sleep_hours": 2.0046194946539404,
+    "exercise_frequency": 1.4518741525464578,
+    "mental_health_rating": 1.9489111239281627
+  },
+  "intercept": 6.157219266373033
+}

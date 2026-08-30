@@ -1,5 +1,12 @@
-streamlit
-pandas
-numpy
-scikit-learn
-joblib
+# Pinned so the saved model always loads under the same library versions
+# it was created with.
+scikit-learn==1.9.0
+pandas==2.3.3
+numpy==2.4.4
+joblib==1.5.3
+streamlit==1.50.0
+
+# Needed only to run notebook.ipynb, not by the deployed app.
+matplotlib>=3.8
+seaborn>=0.13
+jupyter>=1.0
